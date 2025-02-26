@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @koObeng
+- 👋 Hi, I’m Johnson Amoako
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning at the university
 - 💞️ I’m looking to collaborate on Risk Management
